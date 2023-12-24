@@ -15,3 +15,16 @@
   # count how many times iteration works
   print(search.get_iteration_count())  # returns 3
 ```
+
+
+ - [Selection sort](https://github.com/muhammadusufs/grokking_algorithms/blob/main/selection_sort.py)
+ ```bash
+  arr = [1, 5, 4, 6, 3, 2]  # test array
+  selection = SortSelection(arr)  # init
+  print(selection.get_sorted())  # result
+
+  
+  # * RESULT
+  # [1, 2, 3, 4, 5, 6]
+
+  ```
