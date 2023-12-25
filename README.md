@@ -32,4 +32,10 @@
 
 
  - [RECURSION](https://github.com/muhammadusufs/grokking_algorithms/blob/main/recursion.py)
+
  3 examples about #RECURSION
+
+
+| Theme           | Path             | Description                           |
+| :-------------- | :--------------- | :------------------------------------ |
+| Binary search   | `[Binary search](https://github.com/muhammadusufs/grokking_algorithms/blob/main/binary_search.py)` | Implementing binary search & Examples |
