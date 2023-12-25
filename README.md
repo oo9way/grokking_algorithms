@@ -38,4 +38,4 @@
 
 | Theme           | Path             | Description                           |
 | :-------------- | :--------------- | :------------------------------------ |
-| Binary search   | `[Binary search](https://github.com/muhammadusufs/grokking_algorithms/blob/main/binary_search.py)` | Implementing binary search & Examples |
+| Binary search   | [Binary search](https://github.com/muhammadusufs/grokking_algorithms/blob/main/binary_search.py) | Implementing binary search & Examples |
