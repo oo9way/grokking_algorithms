@@ -36,6 +36,6 @@
  3 examples about #RECURSION
 
 
-| Theme           | Path             | Description                           |
-| :-------------- | :--------------- | :------------------------------------ |
-| Binary search   | [Binary search](https://github.com/muhammadusufs/grokking_algorithms/blob/main/binary_search.py) | Implementing binary search & Examples |
+| Theme           | Path               | Description                           |
+| :-------------- | :----------------- | :------------------------------------ |
+| Binary search   | [binary_search.py](https://github.com/muhammadusufs/grokking_algorithms/blob/main/binary_search.py) | Implementing binary search & Examples |
