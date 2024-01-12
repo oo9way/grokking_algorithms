@@ -12,10 +12,11 @@ def bfs(graph):
 
     while q:
         person = q.popleft()
-        if person not in q:
+        if person not in searched:
             if check_is_mango_seller(person):
                 return True
             else:
+                searched.append(person)
                 q += graph[person]
     return False
 
