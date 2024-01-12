@@ -8,17 +8,15 @@ def check_is_mango_seller(name):
 def bfs(graph):
     q = deque()
     q += graph['me']
-    print("initial", q)
+    searched = []
 
     while q:
         person = q.popleft()
-        print("After left", q)
-        if check_is_mango_seller(person):
-            print("Mango seller is " + person)
-            return True
-        else:
-            q += graph[person]
-            print(('After add', q))
+        if person not in q:
+            if check_is_mango_seller(person):
+                return True
+            else:
+                q += graph[person]
     return False
 
 
